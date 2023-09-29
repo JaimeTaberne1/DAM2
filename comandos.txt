@@ -1,0 +1,6 @@
+git add .
+git commit -m "Clase 29/09/2023"
+git push
+
+
+git pull
